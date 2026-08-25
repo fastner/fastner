@@ -16,6 +16,7 @@ Available now for multi-month, fully remote projects: **40 hours/week**, with co
 - [Palamedes](https://github.com/sebastian-software/palamedes) — i18n tooling for React, TypeScript, Vite, and Next.js
 - [Sebastian Software Standards](https://github.com/sebastian-software/standards) — repository automation and engineering standards
 - [AI Agent Skills](https://github.com/sebastian-software/skills.sebastian-software.com) — reusable engineering and delivery workflows
+- [Effective Flow](https://github.com/sebastian-software/effective-flow) — end-to-end engineering workflows for Claude Code and Codex, from planning and implementation to review and merge.
 - [Open Source at Sebastian Software](https://github.com/sebastian-software/oss.sebastian-software.com) — overview of current open-source projects
 
 ## Contact
