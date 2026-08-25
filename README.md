@@ -20,4 +20,4 @@ Available now for multi-month, fully remote projects: **40 hours/week**, with co
 
 ## Contact
 
-[Project profile](https://sebastian-consulting.de) · [Arc profile](https://arc.dev/@sf047564) · [Email](mailto:s.fastner@sebastian-software.de)
+[Project profile](https://sebastian-consulting.com/en/fastner) · [Arc profile](https://arc.dev/@sf047564) · [Email](mailto:s.fastner@sebastian-software.de)
