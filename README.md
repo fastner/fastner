@@ -13,10 +13,12 @@ Available now for multi-month, fully remote projects: **40 hours/week**, with co
 
 ## Selected team work and collaborations
 
+- [Relanto](https://github.com/sebastian-software/relanto) — self-hosted transactional email infrastructure built with React and TypeScript, including scoped API access, delivery tracking, retries, and operational tooling
 - [Palamedes](https://github.com/sebastian-software/palamedes) — i18n tooling for React, TypeScript, Vite, and Next.js
+- [Stellara](https://github.com/sebastian-software/stellara) — self-hosted TypeScript gateway for MCP clients, web research, browser automation, and vector memory
+- [Effective Flow](https://github.com/sebastian-software/effective-flow) — end-to-end engineering workflows for Claude Code and Codex, from planning and implementation to review and merge
 - [Sebastian Software Standards](https://github.com/sebastian-software/standards) — repository automation and engineering standards
 - [AI Agent Skills](https://github.com/sebastian-software/skills.sebastian-software.com) — reusable engineering and delivery workflows
-- [Effective Flow](https://github.com/sebastian-software/effective-flow) — end-to-end engineering workflows for Claude Code and Codex, from planning and implementation to review and merge.
 - [Open Source at Sebastian Software](https://github.com/sebastian-software/oss.sebastian-software.com) — overview of current open-source projects
 
 ## Contact
